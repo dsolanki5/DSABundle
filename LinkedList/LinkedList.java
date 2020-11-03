@@ -164,7 +164,7 @@ public class LinkedList {
             if(index >= K){
                 pointer1 = pointer1.next;
             }
-            index +=1; //3 30
+            index +=1;
 
             pointer2 = pointer2.next;
         }
